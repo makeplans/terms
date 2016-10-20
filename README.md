@@ -1,3 +1,3 @@
 # MakePlans legal terms
 
-* [Terms of service](tos.md)
+* [Terms of service](TOS.md)
