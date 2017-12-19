@@ -1,4 +1,4 @@
-<h1>Terms and conditions for use of MakePlans</h1>
+<h1>Terms of service for MakePlans</h1>
 
 MakePlans (the service) is a hosted web-based application that makes it possible for an organisation (the client) to manage their appointments and offer online booking for their customers. MakePlans is delivered by MakePlans AS (the provider), a Norwegian registered company. *The client* has access to their own account (the account).
 
