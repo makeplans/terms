@@ -1,14 +1,10 @@
 <h1>Terms of service for MakePlans</h1>
 
-MakePlans (the service) is a hosted web-based application that makes it possible for an organisation (the client) to manage their appointments and offer online booking for their customers (end-customers). MakePlans is delivered by MakePlans AS (the provider), a Norwegian registered company. *The client* has access to their own account (the account) using a login by individual users (the user).
+MakePlans (the service) is a hosted web-based application that makes it possible for an organisation (the client) to manage their appointments and offer online booking for their customers (end-customers). MakePlans is delivered by MakePlans AS (the provider), a Norwegian registered company.
+
+To use *the service* you must agree to these terms. *The client* has access to their own account (the account) using a login by individual users (the user).
 
 This agreement is subjective to Norwegian law and the jurisdiction of the courts in Norway.
-
-The current and applicable version of this agreement can be found on https://makeplans.net.
-
-<h4>Service usage</h4>
-
-All usage of *the service* must comply with laws in the country of *the client*.
 
 <h4>Pricing and billing</h4>
 
@@ -30,14 +26,14 @@ Data is stored in the European Union but can in some cases be transferred outsid
 
 <h4>Privacy</h4>
 
-*The user* submits personal information to *the provider* to be identified as a user with access to *the account*. *The provider* collects personal identifiable information from *the user*: name, e-mail, phone number and ip-address. *The user* accepts that *the provider* can use this information to contact the user with information about *the account* or promotional information about *the service* using the provided contact methods.
+*The user* submits personal information to *the provider* to be identified as a user with access to *the account*. *The provider* collects personal identifiable information from *the user*: name, e-mail, phone number and IP-address. *The user* accepts that *the provider* can use this information to contact the user with information about *the account* or promotional information about *the service* using the provided contact methods.
 
 Other personal information that can be supplied in *the account* includes:
 * Payment card and legal business information for charging *the client* for using *the service*.
-* Personal identifiable information about *end-customers* for *the client* to use *the service*: name, e-mail, phone number, address, national identification number and ip-address.
+* Personal identifiable information about *end-customers* for *the client* to use *the service*: name, e-mail, phone number, address, date of birth, national identification number and IP-address.
 * Credentials to external services for integrations from *the service* such as third-party CRM-systems or payment processing. *The client* gives *the provider* rights to access and modify the information in the supplied third-party account.
 * Values stored using custom data attributes as set up by *the client*.
-* References to external services such as invoice number or payment id.
+* References to external services such as invoice number, payment id or credit card reference.
 
 *The client* gives *the provider* access to view data stored in *the account* when investigating problems and improving *the service*. Employees of *the provider* with access to viewing data stored in *the account* are bound by confidentiality agreement and are prohibited to share this data. *The client* gives *the provider* rights to modify data in *the account* for technical or performance reasons.
 
@@ -49,6 +45,10 @@ In addition to generic data processing and storage (such as database, web-server
 
 *The provider* will also collect behaviour information from *the user*, *the client* and *end-customers* when using *the service*, such as IP-address, page visits, and browser information. This information is shared with third parties that may aggregate and sell this usage information to others. No data in *the account* is shared to such third parties who are not necessary for delivering *the service*.
 
+<h4>Service usage</h4>
+
+All usage of *the service* must comply with laws in the country of *the client*. If *the account* is used to send spam or in any other way abused it can result in limited access or deactivation of the *the account*.
+
 <h4>Cancellation</h4>
 
 *The client* can cancel *the account* at any time. No refunds are given. *The provider* can cancel the account at any time if *the client* is in breach of this agreement, otherwise a three months cancellation period applies.
@@ -57,4 +57,8 @@ Upon cancellation *the account* is deactivated. If requested by *the client* the
 
 <h4>Liability</h4>
 
-*The provider* is not liable for any loss or damages based on usage of *the service*.
+*The provider* is not liable for any loss or damages based on usage of *the service*. *The service* is provided as is without any warranties.
+
+<h4>Right to Amend</h4>
+
+*The provider* can change the terms of this agreement at any time. The current and applicable version of this agreement can be found on https://terms.makeplans.net. For major changes *the client* will be notified via email or within *the service*.
