@@ -47,6 +47,8 @@ In addition to generic data processing and storage (such as database, web-server
 
 *The provider* and third parties necessaries to deliver *the service* will store cookies in the browser of the *user* and *end-customer* for identification, settings, and security purposes. Other third parties will store cookies for behavioural tracking purposes.
 
+Data in *the account* can be stored after the account is deleted if required by law.
+
 <h4>Service usage</h4>
 
 All usage of *the service* must comply with laws in the country of *the client*. If *the account* is used to send spam or in any other way abused it can result in limited access or deactivation of the *the account*.
