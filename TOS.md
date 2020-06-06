@@ -43,7 +43,7 @@ In addition to generic data processing and storage (such as database, web-server
 * Credit card processing.
 * External integrations such as CRM and e-mail newsletter applications.
 
-*The provider* will also collect behaviour information from *the user*, *the client* and *end-customers* when using *the service* such as page visits, cookies, and browser information. This information can be shared with third parties that may aggregate and sell this usage information to others, in such cases *user* and *end-customer*, including IP-address, is anonymised. No data in *the account* is shared to third parties that are not necessary for delivering *the service*.
+*The provider* will also collect behaviour information from *the user*, *the client* and *end-customers* when using *the service* such as page visits, cookies, and browser information. This information can be shared with third parties that may aggregate and sell this usage information to others, in such cases *user* and *end-customer*, including IP-address, is anonymized. No data in *the account* is shared to third parties that are not necessary for delivering *the service*.
 
 *The provider* and third parties necessaries to deliver *the service* will store cookies in the browser of the *user* and *end-customer* for identification, settings, and security purposes. Other third parties will store cookies for behavioural tracking purposes.
 
