@@ -63,6 +63,10 @@ Upon cancellation *the account* is deactivated. If requested by *the client* the
 
 *The provider* is not liable for any loss or damages based on usage of *the service*. *The service* is provided as is without any warranties.
 
+<h4>Force majeure</h4>
+
+If *the provider* is unable to provide *the service* due to unforeseen events beyond their control *the provider* is not liable for any loss or damages.
+
 <h4>Right to Amend</h4>
 
 *The provider* can change the terms of this agreement at any time. The current and applicable version of this agreement can be found on https://terms.makeplans.net. For major changes *the client* will be notified via email or within *the service*. If *the client* continues to use *the service* after the changes to the terms it shall be considered as acceptance to the current terms of service.
