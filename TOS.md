@@ -20,7 +20,7 @@ All data stored in *the account* is owned by *the client*. All data in *the acco
 
 *The provider* is the data processor for information stored in *the account*. *The provider* will store and process data in accordance to the applicable laws and regulations as a service provider.
 
-Data is stored in the European Union (EU) but can in some cases be transferred outside of the EU to the United States of America for backup or other technical purposes by our suppliers. Such transfer is based on EU Standard Contractual Clauses.
+Data is stored in the European Union (EU).
 
 <h4>Privacy</h4>
 
