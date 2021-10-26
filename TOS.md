@@ -49,6 +49,8 @@ In addition to generic data processing and storage (such as database, web-server
 
 Data in *the account* can be stored after the account is deleted if required by law.
 
+*End-customers* can request data export and deletion by contacting *the client*. Data deletion is depending on applicable laws such as data retention requirements for financial and health data.
+
 <h4>Service usage</h4>
 
 All usage of *the service* must comply with laws in the country of *the client*. If *the account* is used to send spam or in any other way abused it can result in limited access or deactivation of the *the account*.
