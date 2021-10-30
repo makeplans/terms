@@ -1,3 +1,3 @@
-Here you will find the legal policies for using [MakePlans](https://makeplans.net). If you have any questions please [contact us](https://makeplans.net/en/contact/).
+Here you will find the legal policies for using [MakePlans](https://makeplans.com). If you have any questions please [contact us](https://makeplans.com/en/contact/).
 
 * [Terms of service](TOS.md)
